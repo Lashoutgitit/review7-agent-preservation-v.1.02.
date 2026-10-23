@@ -1,0 +1,5 @@
+failsafe/
+  REVIEW-7_SPEC.md          # Full specification
+  review7_engine.py         # Working state machine
+  hardware_dragon_wing.md   # Hardware-level protocol
+  README.md                 # Folder notes
